@@ -29,7 +29,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 - [Homework 1](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw1/Homework1.ipynb) (Due 28.02.2020)
 
-- Homework 2 (Due 13.03.2020)
+- [Homework 2](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw2/Homework2.ipynb) (Due 13.03.2020)
 
 - Homework 3 (Due 27.03.2020)
 
