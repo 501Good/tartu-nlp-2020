@@ -17,7 +17,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 - [Lab 2. NLP Pipelines](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab2/Lab2_Pipelines.ipynb)
 
-- Lab 3. Word Embeddings
+- [Lab 3. Word Embeddings](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab3/Lab3_Word2Vec.ipynb)
 
 - Lab 4. Text Classification with CNN
 
