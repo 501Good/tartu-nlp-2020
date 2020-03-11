@@ -19,7 +19,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 - [Lab 3. Word Embeddings](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab3/Lab3_Word2Vec.ipynb)
 
-- Lab 4. Text Classification with CNN
+- [Lab 4. Text Classification with CNN](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab4/Lab4_TextClassificationCNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/labs/lab4/Lab4_TextClassificationCNN.ipynb)
 
 - Lab 5. Sequence Tagging
 
