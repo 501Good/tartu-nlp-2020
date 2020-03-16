@@ -31,7 +31,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 - [Homework 2](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw2/Homework2.ipynb) (Due 13.03.2020)
 
-- Homework 3 (Due 27.03.2020)
+- [Homework 3](https://github.com/501Good/tartu-nlp-2020/blob/master/homeworks/hw3/Homework3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/homeworks/hw3/Homework3.ipynb) (Due 27.03.2020)
 
 - Homework 4 (Due 10.04.2020)
 
