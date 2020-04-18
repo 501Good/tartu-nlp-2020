@@ -38,3 +38,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 - Homework 5 (Due 24.04.2020)
 
 - Homework 6 (Due 15.05.2020)
+
+## Project Support
+
+- [Related work](https://github.com/501Good/tartu-nlp-2020/tree/master/projects)
