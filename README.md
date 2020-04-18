@@ -41,4 +41,4 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 ## Project Support
 
-- [Related work](https://github.com/501Good/tartu-nlp-2020/tree/master/projects)
+- [Related work](https://github.com/501Good/tartu-nlp-2020/blob/master/projects/Related_Work.md)
