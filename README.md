@@ -23,7 +23,7 @@ When answering the question, provide a hint, explanation. **Sharing the direct t
 
 - [Lab 5. Sequence Tagging](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab5/Lab5_SequenceTagging.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/labs/lab5/Lab5_SequenceTagging.ipynb)
 
-- Lab 6. Contextual Word Embeddings
+- [Lab 6. Contextual Word Embeddings](https://github.com/501Good/tartu-nlp-2020/blob/master/labs/lab6/Lab6_TransformersClassification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/501Good/tartu-nlp-2020/blob/master/labs/lab6/Lab6_TransformersClassification.ipynb)
 
 ## Homeworks
 
